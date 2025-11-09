@@ -1,0 +1,9 @@
+{ 
+0:'discharge', 
+1:'diversion', 
+2:'entertainment', 
+3:'mental_work',
+4:'revival', 
+5:'solace', 
+6:'strong_sensation'
+}
